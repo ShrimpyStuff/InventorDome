@@ -1,0 +1,55 @@
+﻿Study Static Analysis:1 started: 2024-12-23, 11:58:29 AM
+Number of configurations: 1
+Default mesh: 1973 elements, 4197 nodes
+The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
+Solution time 0.9s
+Convergence rate: 40%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.75  on element 1745 finished: 2024-12-23, 11:58:31 AM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 2024-12-23, 12:11:39 PM
+Number of configurations: 1
+Default mesh: 1988 elements, 4608 nodes
+Study Static Analysis:1 failed. 2024-12-23, 12:11:40 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 2024-12-23, 12:12:07 PM
+Number of configurations: 1
+Default mesh: 1988 elements, 4608 nodes
+The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
+Solution time 0.8s
+Convergence rate: 61.1%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2024-12-23, 12:12:08 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 2024-12-23, 12:12:39 PM
+Number of configurations: 1
+Study Static Analysis:1 finished: 2024-12-23, 12:12:39 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 2024-12-23, 12:13:59 PM
+Number of configurations: 1
+Default mesh: 1981 elements, 4205 nodes
+Study        Worst Jacobian ratio :  1.69  on element 339 failed. 2024-12-23, 12:14:01 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 2024-12-23, 12:15:05 PM
+Number of configurations: 1
+Default mesh: 1981 elements, 4205 nodes
+Solution time 0.8s
+Convergence rate: 41.2%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.69  on element 339 finished: 2024-12-23, 12:15:08 PM
+Total time 0:00:03
+
+Study Static Analysis:1 started: 2024-12-23, 12:16:49 PM
+Number of configurations: 1
+Default mesh: 1981 elements, 4205 nodes
+Solution time 0.8s
+Convergence rate: 41.4%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2024-12-23, 12:16:50 PM
+Total time 0:00:01
+

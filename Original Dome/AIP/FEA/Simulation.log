@@ -1,0 +1,12 @@
+﻿Study Static Analysis:1 started: 2024-11-11, 11:33:22 PM
+Number of configurations: 1
+Default mesh: 2152 elements, 4933 nodes
+A model separates into 2 independent components
+Soft spring was added
+The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
+Solution time 1.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.69  on element 1624 finished: 2024-11-11, 11:33:27 PM
+Total time 0:00:05
+

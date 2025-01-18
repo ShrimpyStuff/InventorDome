@@ -1,9 +1,64 @@
-﻿Study Static Analysis:1 started: 2024-11-11, 8:35:49 AM
+﻿Study Static Analysis:1 started: 2024-12-24, 7:10:49 PM
+Number of configurations: 1
+Default mesh: 1988 elements, 4608 nodes
+The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
+Solution time 0.7s
+Convergence rate: 27.4%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2024-12-24, 7:10:50 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 2024-12-24, 7:12:31 PM
+Number of configurations: 1
+Default mesh: 1988 elements, 4608 nodes
+Solution time 0.7s
+Convergence rate: 27.4%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2024-12-24, 7:12:33 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 2024-12-24, 7:13:21 PM
 Number of configurations: 1
 Default mesh: 1988 elements, 4608 nodes
 Solution time 0.8s
-Convergence rate: 30.4%
+Convergence rate: 27.4%
 Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1.65  on element 407 finished: 2024-11-11, 8:35:51 AM
-Total time 0:00:02
+Study Static Analysis:1 finished: 2024-12-24, 7:13:22 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 2024-12-24, 7:13:36 PM
+Number of configurations: 1
+Default mesh: 1988 elements, 4608 nodes
+Solution time 0.7s
+Convergence rate: 27.4%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2024-12-24, 7:13:37 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 2024-12-24, 7:13:47 PM
+Number of configurations: 1
+Default mesh: 1988 elements, 4608 nodes
+Solution time 0.7s
+Convergence rate: 27.4%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2024-12-24, 7:13:48 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 2024-12-24, 7:20:48 PM
+Number of configurations: 1
+Default mesh: 1988 elements, 4608 nodes
+Solution time 0.8s
+Convergence rate: 30.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2024-12-24, 7:20:49 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 2024-12-24, 7:20:59 PM
+Number of configurations: 1
+Default mesh: 1988 elements, 4608 nodes
+Solution time 0.7s
+Convergence rate: 30.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2024-12-24, 7:21:00 PM
+Total time 0:00:01
 
